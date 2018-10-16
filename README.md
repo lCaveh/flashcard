@@ -1,4 +1,4 @@
-# _Boring lecture_
+# _Flashcard Site_
 
 #### _single Webpage for Epicodus, 10.16.2018_
 
@@ -6,7 +6,7 @@
 
 ## Description
 
-_A single webpage about a Boring lecture_
+_A single webpage about a Flashcards_
 
 ## Setup/Installation Requirements
 
